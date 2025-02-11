@@ -1,0 +1,14 @@
+ColumnVariableCode,ColumnVariableMeasurementUnitValue,ColumnVariableStatisticalUnitValue,ColumnVariableCodeValue,ColumnVariableParentCodeValue
+GeographyCode,,,Geography Code
+KS101EW0001,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_URESINDPUK11@5f@SEX@5f@TOO3A|UDF@3a@URESINDPUK11_SEX@3a@@20@Usual@20@resident@20@@28@indicator@29@@20@by@20@sex_@23@@23@va@2e@rcd@2e@rpt@2e@URESINDPUK11@5f@SEX@5f@TOO3A@2e@RHcoqwRN,
+KS101EW0002,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_URESINDPUK11@5f@SEX@5f@TOO3A|UDF@3a@URESINDPUK11_SEX@3a@@20@Usual@20@resident@20@@28@indicator@29@@20@by@20@sex_Usual@20@resident@3a@@20@Males,
+KS101EW0003,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_URESINDPUK11@5f@SEX@5f@TOO3A|UDF@3a@URESINDPUK11_SEX@3a@@20@Usual@20@resident@20@@28@indicator@29@@20@by@20@sex_Usual@20@resident@3a@@20@Females,
+KS101EW0004,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_URESINDPUK11@5f@RESIDENCE@5f@TYPE@5f@T002A|UDF@3a@URESINDPUK11_RESIDENCE_TYPE@3a@@20@Usual@20@resident@20@@28@Indicator@29@@20@by@20@residence@20@type_Usual@20@resident@3a@@20@Lives@20@in@20@a@20@household,
+KS101EW0005,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_URESINDPUK11@5f@RESIDENCE@5f@TYPE@5f@T002A|UDF@3a@URESINDPUK11_RESIDENCE_TYPE@3a@@20@Usual@20@resident@20@@28@Indicator@29@@20@by@20@residence@20@type_Usual@20@resident@3a@@20@Lives@20@in@20@a@20@communal@20@establishment,
+KS101EW0006,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_STAINDPUK11@5f@T001A|C_STAINDPUK11_1,
+KS101EW0007,sum,F_OAMAP_AREALHECT,F@5f@PERSON_URESINDPUK11@5f@SEX@5f@TOO3A|UDF@3a@URESINDPUK11_SEX@3a@@20@Usual@20@resident@20@@28@indicator@29@@20@by@20@sex_@23@@23@va@2e@rcd@2e@rpt@2e@URESINDPUK11@5f@SEX@5f@TOO3A@2e@RHcoqwRN,
+KS101EW0008,ratio,__RESERVED__,ColumnAxis|density_@28@number_of_persons_per_hectare@29@,
+KS101EW0009,percentage,__RESERVED__,ColumnAxis|males,
+KS101EW0010,percentage,__RESERVED__,ColumnAxis|females,
+KS101EW0011,percentage,__RESERVED__,ColumnAxis|lives_in_a_household,
+KS101EW0012,percentage,__RESERVED__,ColumnAxis|lives_in_a_communal_establishment,

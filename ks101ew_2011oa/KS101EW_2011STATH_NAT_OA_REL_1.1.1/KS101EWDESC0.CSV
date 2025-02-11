@@ -1,0 +1,13 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+KS101EW0001,Count,Person,All categories: Sex
+KS101EW0002,Count,Person,Males
+KS101EW0003,Count,Person,Females
+KS101EW0004,Count,Person,Lives in a household
+KS101EW0005,Count,Person,Lives in a communal establishment
+KS101EW0006,Count,Person,Schoolchild or full-time student aged 4 and over at their non term-time address
+KS101EW0007,Sum,Area (Hectares),Area hectares
+KS101EW0008,Ratio,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Density (number of persons per hectare)
+KS101EW0009,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Males
+KS101EW0010,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Females
+KS101EW0011,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Lives in a household
+KS101EW0012,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Lives in a communal establishment
