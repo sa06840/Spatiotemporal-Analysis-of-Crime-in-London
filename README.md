@@ -1,1 +1,3 @@
 # Spatiotemporal-Analysis-of-Crime-in-London
+
+In this project, I performed a detailed spatiotemporal analysis of crime patterns in London using data from the Metropolitan Police Service. By visualizing the data, I identified crime hotspots and analyzed how demographic factors correlated with crime rates over time. The analysis utilised K-Means clustering to uncover patterns and choropleth maps to represent crime rates geographically. This project enhanced my ability to work with large datasets, analyze geographical trends, and apply clustering techniques effectively. The research questions, methodology and results are elaborated in the report.
